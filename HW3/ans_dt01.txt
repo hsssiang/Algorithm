@@ -1,0 +1,121 @@
+Generation 1
+max profit: 309
+solution: 1111100010
+
+Generation 2
+max profit: 309
+solution: 1001000000
+
+Generation 3
+max profit: 309
+solution: 1100001000
+
+Generation 4
+max profit: 309
+solution: 1111110000
+
+Generation 5
+max profit: 309
+solution: 1111100000
+
+Generation 6
+max profit: 309
+solution: 1111100010
+
+Generation 7
+max profit: 309
+solution: 1101110000
+
+Generation 8
+max profit: 309
+solution: 1001110000
+
+Generation 9
+max profit: 309
+solution: 1101100000
+
+Generation 10
+max profit: 309
+solution: 1111000001
+
+Generation 11
+max profit: 309
+solution: 1101011100
+
+Generation 12
+max profit: 309
+solution: 1101010001
+
+Generation 13
+max profit: 309
+solution: 1101100001
+
+Generation 14
+max profit: 309
+solution: 1001001000
+
+Generation 15
+max profit: 309
+solution: 0101100000
+
+Generation 16
+max profit: 309
+solution: 1100001000
+
+Generation 17
+max profit: 309
+solution: 1111000001
+
+Generation 18
+max profit: 309
+solution: 0111010000
+
+Generation 19
+max profit: 309
+solution: 1101011000
+
+Generation 20
+max profit: 309
+solution: 0111010000
+
+Generation 21
+max profit: 309
+solution: 1111110000
+
+Generation 22
+max profit: 309
+solution: 1110010000
+
+Generation 23
+max profit: 309
+solution: 1101000000
+
+Generation 24
+max profit: 309
+solution: 1001001000
+
+Generation 25
+max profit: 309
+solution: 1101100000
+
+Generation 26
+max profit: 309
+solution: 1111001000
+
+Generation 27
+max profit: 309
+solution: 1101011000
+
+Generation 28
+max profit: 309
+solution: 0101001000
+
+Generation 29
+max profit: 309
+solution: 1101111000
+
+Generation 30
+max profit: 309
+solution: 1101100010
+
+Final Score: 309

@@ -1,0 +1,2 @@
+max profit:1458
+solution:101010111000011

@@ -1,0 +1,121 @@
+Generation 1
+max profit: 13549094
+solution: 110111000110100100000111
+
+Generation 2
+max profit: 13549094
+solution: 110111000110100100000111
+
+Generation 3
+max profit: 13549094
+solution: 110111000110100100000111
+
+Generation 4
+max profit: 13549094
+solution: 110111000110100100000111
+
+Generation 5
+max profit: 13549094
+solution: 110111000110100100000111
+
+Generation 6
+max profit: 13549094
+solution: 110111000110100100000111
+
+Generation 7
+max profit: 13549094
+solution: 110111000110100100000111
+
+Generation 8
+max profit: 13549094
+solution: 110111000110100100000111
+
+Generation 9
+max profit: 13549094
+solution: 110111000110100100000111
+
+Generation 10
+max profit: 13549094
+solution: 110111000110100100000111
+
+Generation 11
+max profit: 13549094
+solution: 110111000110100100000111
+
+Generation 12
+max profit: 13549094
+solution: 110111000110100100000111
+
+Generation 13
+max profit: 13549094
+solution: 110111000110100100000111
+
+Generation 14
+max profit: 13549094
+solution: 110111000110100100000111
+
+Generation 15
+max profit: 13549094
+solution: 110111000110100100000111
+
+Generation 16
+max profit: 13549094
+solution: 110111000110100100000111
+
+Generation 17
+max profit: 13549094
+solution: 110111000110100100000111
+
+Generation 18
+max profit: 13549094
+solution: 110111000110100100000111
+
+Generation 19
+max profit: 13549094
+solution: 110111000110100100000111
+
+Generation 20
+max profit: 13549094
+solution: 110111000110100100000111
+
+Generation 21
+max profit: 13549094
+solution: 110111000110100100000111
+
+Generation 22
+max profit: 13549094
+solution: 110111000110100100000111
+
+Generation 23
+max profit: 13549094
+solution: 110111000110100100000111
+
+Generation 24
+max profit: 13549094
+solution: 110111000110100100000111
+
+Generation 25
+max profit: 13549094
+solution: 110111000110100100000111
+
+Generation 26
+max profit: 13549094
+solution: 110111000110100100000111
+
+Generation 27
+max profit: 13549094
+solution: 110111000110100100000111
+
+Generation 28
+max profit: 13549094
+solution: 110111000110100100000111
+
+Generation 29
+max profit: 13549094
+solution: 110111000110100100000111
+
+Generation 30
+max profit: 13549094
+solution: 110111000110100100000111
+
+Final Score: 13549094
